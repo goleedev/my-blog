@@ -2,11 +2,11 @@
 title: '까다로운 MacOS 카탈리나, MongoDB 설치하기'
 date: 2019-5-26 16:21:13
 category: 'TIL'
-thumbnail: './images/catalina.png'
+thumbnail: './images/til.png'
 draft: false
 ---
 
-![](./images/catalina.png)
+![](./images/til.png)
 
 ### 🔑 Keyword
 
@@ -98,3 +98,5 @@ alias mongod="sudo mongod --dbpath /System/Volumes/Data/data/db"
 <br>
 <br>
 👉🏻 참조 : [Installing MongoDB on **macOS Catalina**](https://medium.com/better-programming/installing-mongodb-on-macos-catalina-aab1cbe0c836)
+
+<br>
