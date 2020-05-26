@@ -2,7 +2,7 @@
 title: 'VSCode에서 리액트 포맷이 못생겼다'
 date: 2020-05-26 20:05:25
 thumbnail: './images/til.png'
-category: til
+category: 'TIL'
 draft: false
 ---
 
