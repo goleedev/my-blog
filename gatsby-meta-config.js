@@ -9,7 +9,7 @@ module.exports = {
     github: `https://github.com/goleedev`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
-    linkedin: `https://www.linkedin.com/in/goeun-lee-9b360218a/`, // Your LinkedIn account
+    linkedin: `https://www.linkedin.com/in/goleedev/`, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
