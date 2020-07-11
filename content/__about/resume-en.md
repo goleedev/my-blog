@@ -1,3 +1,9 @@
+---
+title: 'about'
+date: 2020-7-11 16:21:13
+lang: 'en'
+---
+
 # Goeun Lee
 
 > I'm a software engineer interested in communications/working with people💁 around the world!
