@@ -7,8 +7,12 @@ lang: 'en'
 # Goeun Lee
 
 > I'm a software engineer interested in communications/working with people💁 around the world!
+>
+> My focus area for now is front-end development with React and back-end development with Node. Frankly speaking, I love learning new things in terms of programming. In addition to that, I am very quality-conscious because I spent my early career years in research roles. FYI, the research was about chatbot service in the US.
 
-My focus area for now is front-end development with React and back-end development with Node. Frankly speaking, I love learning new things in terms of programming. In addition to that, I am very quality-conscious because I spent my early career years in research roles. FYI, the research was about chatbot service in the US.
+
+
+---
 
 
 
@@ -32,7 +36,7 @@ My focus area for now is front-end development with React and back-end developme
 
 📁 [Work Experience](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#56933ebd3587466e9362b19dbb67e9bc)
 
-🌐 [Activity](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#b6bcf665f3c44ada910ea9fbefeb6f25)👩‍👩‍👧‍👧
+🌐 [Activity](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#b6bcf665f3c44ada910ea9fbefeb6f25)
 
 📚 [Education](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#2657224ead6c4577a2766df0c4f32d62)
 
@@ -46,11 +50,9 @@ My focus area for now is front-end development with React and back-end developme
 
 ## **Software Engineer II**
 
-***Typeform**, Barcelona, Spain – (Dec 2017 - Present)*
+***Project 1**, (Skills Using)*
 
-**Full-stack engineer** in the team responsible for integrations and developer tools. We're in charge of defining and improving the developer experience with Typeform's platform.
-
-Initially focused on front-end, single-handedly led the efforts to re-build our front-ends for OAuth applications, Personal Tokens and Webhooks from scratch using **React**, **Redux**, **Styled Components**, **Jest**, etc.
+**Project1** 
 
 
 
@@ -84,6 +86,8 @@ Initially focused on front-end, single-handedly led the efforts to re-build our 
   
 
 ---
+
+
 
 ## 🗣 Languages
 
