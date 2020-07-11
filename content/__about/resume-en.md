@@ -8,7 +8,7 @@ lang: 'en'
 
 > I'm a software engineer interested in communications/working with people💁 around the world!
 >
-> My focus area for now is front-end development with React and back-end development with Node. Frankly speaking, I love learning new things in terms of programming. In addition to that, I am very quality-conscious because I spent my early career years in research roles. FYI, the research was about chatbot service in the US.
+> My focus area for now is front-end development with React and back-end development with Node. Frankly speaking, I love learning new things in terms of programming. In addition to that, I am very quality-conscious because I spent my early career years in research roles. FYI, the research was about chatbot service based in the US.
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: 'Notion으로 쉽고 빠르게 작성하는 Resume🧑‍💼'
 date: 2020-07-11 14:07:67
-category: career
+category: Career
 thumbnail: './images/career.png'
 draft: false
 
