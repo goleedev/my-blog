@@ -8,21 +8,9 @@ lang: 'en'
 
 > I am a junior Software engineer with a various knowledge in front-end and back-end languages, frameworks, and databases. I love learning new things and solving  problems. In addition to that, I am quality-conscious because I spent my early career years in research roles.
 
-
-
----
-
-
-
 # 👋 Portfolio
 
 💻  [Click to see my portfolio!](https://goleedev.github.io)
-
-
-
----
-
-
 
 # ☎️ Contact information
 
@@ -33,8 +21,6 @@ lang: 'en'
 📝 [DEV Blog](https://goleedev.netlify.app)
 
 🔗 [LinkedIn profile](https://www.linkedin.com/in/goleedev/)
-
-
 
 # Jump to
 
@@ -48,11 +34,7 @@ lang: 'en'
 
 📚 [Education](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#2657224ead6c4577a2766df0c4f32d62)
 
-
-
----
-
-
+<br/>
 
 # **👩🏻‍💻** Projects
 
@@ -83,16 +65,11 @@ A Movie Listing App using Movie DB API with MongoDB, Express, React.js, Node.js,
 
 Set for Completion in June 2020.
 
-
-
----
-
-
+<br/>
 
 # 🛠 Skills
 
 ## 💻 Front-end
-
 - React.js
 - JavaScript (ES6 +)
 - jQuery
@@ -100,21 +77,16 @@ Set for Completion in June 2020.
 - HTML5 & CSS3
 
 ## 🔙 Back-end
-
 - Node.js
 - MongoDB
 - Mongoose
 - Express.js
 
 ## 👏 Others
-
 - Git
 - Github
   
-
----
-
-
+<br/>
 
 ## 🗣 Languages
 
@@ -129,25 +101,15 @@ Proficient (Lived in Seattle, WA | 2013-2016)
 ### Mandarin Chinese 🇨🇳
 
 Intermediate (Lived in Changchun, JL | 2010-2013)
-
-
----
-
-
+<br/>
 
 # 🌐 Activity
 
 ## 👩‍👩‍👧‍👧 XXIT
 
 *Founder*
-
-Organization for Women in Tech based in S.Korea with 9,400 + members 
-
-
-
----
-
-
+Organization supporting women in tech in S.Korea with 9,400 + members 
+<br/>
 
 # 📚 Education
 
@@ -162,11 +124,9 @@ Unfinished
 ## 👾 AA in Communication, Seattle Central College
 
 3.97 / 4.0
-
+<br/>
+<br/>
 ---
-
-
-
 ### I’m available for interesting projects. Contact me [@here](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#315f48b564574059bf49aa06b2e89ed3)
 
 Thanks for reading! 👋
