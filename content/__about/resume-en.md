@@ -6,9 +6,7 @@ lang: 'en'
 
 # Goeun Lee
 
-> I'm a software engineer interested in communications/working with people💁 around the world!
->
-> My focus area for now is front-end development with React and back-end development with Node. Frankly speaking, I love learning new things in terms of programming. In addition to that, I am very quality-conscious because I spent my early career years in research roles. FYI, the research was about chatbot service based in the US.
+> I am a junior Software engineer with a various knowledge in front-end and back-end languages, frameworks, and databases. I love learning new things and solving  problems. In addition to that, I am quality-conscious because I spent my early career years in research roles.
 
 
 
@@ -58,11 +56,32 @@ lang: 'en'
 
 # **👩🏻‍💻** Projects
 
-## **Software Engineer II**
+## Ur Repo: Github Search App
 
-***Project 1**, (Skills Using)*
+**👉**[View Demo](https://github-search-goleedev.netlify.app/) 
 
-**Project1** 
+A Github search application using Github API with React.js, Fusioncharts, and Bootstrap. 
+
+Users can search with the username to get user info on their Github account. Charts show the five most used and starred languages of the user.
+
+Set for Completion in July 2020.
+
+## Chatter Box: Real-time chat application.
+
+👉[View Demo](http://chatter-box-goleedev.netlify.app)
+
+A real-time chat built with React.js, Node.js, Express.js, [socket.io](http://socket.io), and Bootstrap.
+Users can join a selected channel. In the channel, admin greets to the member automatically. Scroll to bottom shows up when chats loaded. Used heroku for server deployment and netlify for client.
+
+Set for Completion in July 2020.
+
+## Watchin’: Movie Listing App
+
+👉[View Demo](https://watchin-app.herokuapp.com/) 
+
+A Movie Listing App using Movie DB API with MongoDB, Express, React.js, Node.js, and Ant Design. Users can store their favorite movies under favorite page.
+
+Set for Completion in June 2020.
 
 
 
@@ -75,9 +94,10 @@ lang: 'en'
 ## 💻 Front-end
 
 - React.js
-- ES6 +
+- JavaScript (ES6 +)
 - jQuery
-- HTML5 & CSS3, Sass
+- Bootstrap/Ant Design
+- HTML5 & CSS3
 
 ## 🔙 Back-end
 
@@ -85,14 +105,11 @@ lang: 'en'
 - MongoDB
 - Mongoose
 - Express.js
-- Deno.js
 
 ## 👏 Others
 
-- Git & Github
-
-- Firebase
-
+- Git
+- Github
   
 
 ---
@@ -114,21 +131,6 @@ Proficient (Lived in Seattle, WA | 2013-2016)
 Intermediate (Lived in Changchun, JL | 2010-2013)
 
 
-
----
-
-
-
-# **👩🏻‍💻** Work Experience
-
-## **Data Researcher**
-
-*LG Electronics, Seoul – (Sep 2018 - Oct 2019 )*
-
-**Data researcher** in the global chatbot team responsible for sorting and creating meaningful data for chatbot service specifically targeting the US users. On top of that, we simulate how data works with the service and affects future service quality.
-
-
-
 ---
 
 
@@ -139,7 +141,7 @@ Intermediate (Lived in Changchun, JL | 2010-2013)
 
 *Founder*
 
-Organization for Women in Tech based in S.Korea with 9,000 + members 
+Organization for Women in Tech based in S.Korea with 9,400 + members 
 
 
 
@@ -151,7 +153,15 @@ Organization for Women in Tech based in S.Korea with 9,000 + members
 
 ## 👾 BS in Computer Science, University of London
 
+In Progress, Attending Online
 
+## 👾 BA in Communication, University of Illinois at Urbana-Champaign
+
+Unfinished
+
+## 👾 AA in Communication, Seattle Central College
+
+3.97 / 4.0
 
 ---
 
