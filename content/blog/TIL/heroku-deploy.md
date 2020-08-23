@@ -85,5 +85,5 @@ Buildpack 설정은 매번 잊게 되니 추후에 해당 글을 레퍼런스로
 
 ### 🔗 Reference
 
-- ** [Heroku Buildpack for create-react-app](https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack) **
+- **[Heroku Buildpack for create-react-app](https://elements.heroku.com/buildpacks/mars/create-react-app-buildpack)**
 
