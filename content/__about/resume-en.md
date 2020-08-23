@@ -16,19 +16,17 @@ lang: 'en'
 
 📧 [golee.dev@gmail.com](mailto:golee.dev@gmail.com)
 
-🤳 [@dailee.golee](https://instagram.com/dailee.golee)
+🤳 [Instagram](http://instagram.com/golee.dev)
 
-📝 [DEV Blog](https://goleedev.netlify.app)
+📝 [Blog](https://goleedev.netlify.app)
 
-🔗 [LinkedIn profile](https://www.linkedin.com/in/goleedev/)
+🔗 [LinkedIn](https://www.linkedin.com/in/goleedev/)
 
 # Jump to
 
 👩🏻‍💻 [Projects](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#ab29cf8a847849108a188da63bf30326)
 
 🛠 [Skills](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#fdd6a9f16ef448ee9eec9083e43e7f87)
-
-📁 [Work Experience](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#56933ebd3587466e9362b19dbb67e9bc)
 
 🌐 [Activity](https://www.notion.so/Goeun-Lee-ec4f8ae8c84b46b5a8f2e1322ede3374#b6bcf665f3c44ada910ea9fbefeb6f25)
 
@@ -85,6 +83,7 @@ Set for Completion in June 2020.
 ## 👏 Others
 - Git
 - Github
+- Heroku
   
 <br/>
 

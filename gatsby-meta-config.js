@@ -1,9 +1,9 @@
 module.exports = {
-  title: `GO Lee`,
+  title: `golee.dev`,
   description: `One step at a time`,
   author: `GO Lee`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  introduction: `I explain with words and codes.`,
+  siteUrl: `https://goleedev.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `https://github.com/goleedev`, // Your GitHub account
@@ -18,10 +18,10 @@ module.exports = {
     utterances: 'goleedev/utterances', // Your repository for archive comment
   },
   configs: {
-    countOfInitialPost: 10, // Config your initial count of post
+    countOfInitialPost: 3, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: '',
+    buyMeACoffeeId: 'golee',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
